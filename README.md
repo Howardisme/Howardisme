@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Howard!
 
-<!--
-**Howardisme/Howardisme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Computer Science student at **National Central University (NCU), Taiwan**.  
+💡 Passionate about **AI-generated content detection**, **machine learning**, and **open-source projects**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me
+- 🔭 Currently working on: **Open Source Project**
+- 🧩 Exploring: ...
+- 💬 Ask me about: PyTorch, LangChain, Gradio, or AIGC research
+- 🌱 Learning: ...
+- 🌐 Languages: English / Mandarin / Python / C++ / Java
+
+---
+
+### ⚙️ Tech Stack
+| Category | Tools & Frameworks |
+|-----------|--------------------|
+| 🧠 AI / ML | PyTorch · SentenceTransformers · HuggingFace · Ollama |
+| 🧩 Data / RAG | LangChain · ChromaDB · FAISS · Unsloth |
+| 🌐 Web / UI | Gradio · React · Tailwind · Flask |
+| 🗃️ Database | SQLite · MySQL |
+| 🧮 Others | C++ STL · Qiskit · Linux (Mint / Ubuntu) |
+
+---
