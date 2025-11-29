@@ -24,3 +24,5 @@
 | 🧮 Others | C++ STL · Qiskit · Linux (Mint / Ubuntu) |
 
 ---
+My Status on Github: 
+![My GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Howardisme)
