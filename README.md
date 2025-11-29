@@ -10,7 +10,7 @@
 - 🧩 Exploring: ...
 - 💬 Ask me about: PyTorch, LangChain, Gradio, or AIGC research
 - 🌱 Learning: ...
-- 🌐 Languages: English / Mandarin / Python / C++ / Java
+- 🌐 Languages: Python / C++ / Java / React 
 
 ---
 
