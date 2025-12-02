@@ -1,27 +1,12 @@
 # 👋 Hi, I'm Howard!
 
 🎓 I'm a Computer Science student at **National Central University (NCU), Taiwan**.  
-💡 Passionate about **AI-generated content detection**, **machine learning**, and **open-source projects**.
+💡 Passionate about **AI-generated**, **machine learning**, and **open-source projects**.
 
 ---
 
-### 🧠 About Me
-- 🔭 Currently working on: **Open Source Project**
-- 🧩 Exploring: ...
-- 💬 Ask me about: PyTorch, LangChain, Gradio, or AIGC research
-- 🌱 Learning: ...
-- 🌐 Languages: Python / C++ / Java / React 
-
----
-
-### ⚙️ Tech Stack
-| Category | Tools & Frameworks |
-|-----------|--------------------|
-| 🧠 AI / ML | PyTorch · SentenceTransformers · HuggingFace · Ollama |
-| 🧩 Data / RAG | LangChain · ChromaDB · FAISS · Unsloth |
-| 🌐 Web / UI | Gradio · React · Tailwind · Flask |
-| 🗃️ Database | SQLite · MySQL |
-| 🧮 Others | C++ STL · Qiskit · Linux (Mint / Ubuntu) |
+### 🧠 Programming Languages
+- Python / C++ / Java /  
 
 ---
 My Status on Github: 
