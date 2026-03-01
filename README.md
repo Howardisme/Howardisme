@@ -1,14 +1,5 @@
-# 👋 Hi, I'm Howard!
+# Hello~ Welcome to my page. 
 
-🎓 I'm a Computer Science student at **National Central University (NCU), Taiwan**.  
-💡 Passionate about **AI-generated**, **machine learning**, and **open-source projects**.
+I am a junior year student majoring computer science in Taiwan.  
 
----
-
-### 🧠 Programming Languages
-- Python / C++ / Java /  
-
----
-My Status on Github: 
-
-![My GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Howardisme)
+Now I'm focusing on opensource project! Hope to contribute to the community. 
