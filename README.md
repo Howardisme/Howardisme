@@ -1,5 +1,9 @@
-# Hello~ Welcome to my page. 
+## Hello~ Welcome to my page. 
 
-I am a junior year student majoring computer science in Taiwan.  
+I am 1hao, a junior year student majoring computer science in Taiwan.  
 
-Now I'm focusing on opensource project! Hope to contribute to the community. 
+Now I'm focusing on opensource projects! Hope to contribute to the community. 
+
+if you have any question, feel free to DM me!
+
+Email: howard940114@gmail.com
