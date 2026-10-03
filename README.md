@@ -1,6 +1,6 @@
-## Hello~ Welcome to my page. 
+## ¡Hola! My name is Howard. 
 
-I am 1hao, a last year student majoring computer science in Taiwan.  
+I am an last year undergraduate majoring in computer science.
 
 Now I'm focusing on opensource project contributions! Hope to do something to the community. 
 
