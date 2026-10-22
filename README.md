@@ -1,4 +1,4 @@
-## ¡Hola! My name is Howard. 
+## Hola! My name is Howard. 
 
 I am an last year undergraduate majoring in computer science.
 
