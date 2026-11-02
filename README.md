@@ -1,7 +1,7 @@
-## Hola! My name is Howard. 
+# Hola! I'm Howard. 
 
-I am an last year undergraduate majoring in computer science.
+I am a last-year undergraduate majoring in computer science.
 
-Now I'm focusing on opensource project contributions! Hope to do something to the community. 
+Now I'm focusing on oss contributions & building cool things! Hope to do something to the community. 
 
 if you have any question, feel free to contact me!
